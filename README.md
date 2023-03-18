@@ -1,2 +1,4 @@
 # Aviso-de-pagamento
- 
+<h1 align="center">Aviso de Conta Vencida</h1>
+<p align="center">Este código fornece duas funcionalidades para ajudar você a gerenciar suas finanças. A primeira funcionalidade é uma notificação que aparece no seu dispositivo Windows no dia em que sua fatura vence. Essa notificação mostra quais faturas estão vencendo e o valor que você deve pagar. Essa notificação pode ajudar você a evitar atrasos no pagamento e cobranças de juros.</p>
+<p align="center">A segunda funcionalidade é o envio automático de um email para notificá-lo sobre as contas a pagar. Atualmente, o email está configurado por padrão no código, mas pode ser mudado para se conectar com qualquer banco de dados. O banco de dados utilizado é o Excel, porém, pode ser usado qualquer outro banco de dados. Eu escolhi o Excel por ser facilmente manipulável manualmente, já que criei esse código para gerenciar minhas próprias contas. Nesse arquivo Excel, existem apenas três colunas: nome da fatura, valor e data de vencimento. Com essas informações, o código lê o arquivo Excel e cria um sistema de notificação simples, porém extremamente importante.</p>
